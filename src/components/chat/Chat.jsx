@@ -73,9 +73,9 @@ const Chat = () => {
             <span>1 min ago</span>
           </div>
         </div>
-        <div className='message'>
-          <img src='./avatar.png' alt='' className='' />
+        <div className='message own'>
           <div className='texts'>
+            <img src="" alt="" />
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Necessitatibus quod, odit, laboriosam nostrum vitae esse sed neque
