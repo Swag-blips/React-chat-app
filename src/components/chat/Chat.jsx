@@ -75,7 +75,7 @@ const Chat = () => {
         </div>
         <div className='message own'>
           <div className='texts'>
-            <img src="" alt="" />
+            <img src="https://cdn.wallpapersafari.com/33/24/OigYeE.jpg" alt="" />
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Necessitatibus quod, odit, laboriosam nostrum vitae esse sed neque
