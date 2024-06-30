@@ -1,5 +1,7 @@
 .detail {
     flex: 1;
+    overflow: auto ;
+    flex-direction: column ;
 
     .user {
         padding: 30px 20px;
@@ -88,6 +90,15 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
+
+            &:hover{
+                background-color:rgba(220,20,60,0.796)
+            }
+
+            &.logout{
+                padding:10px;
+                background-color: #1a73e8;
+            }
 
         }
     }
